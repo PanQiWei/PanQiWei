@@ -1,4 +1,4 @@
-### Hello!
+### 😄 Welcome to PanQiWei !
 
 <!--
 **PanQiWei/PanQiWei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=PanQiWei&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanQiWei&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=PanQiWei&count_private=true&show_icons=true&theme=vue)](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)

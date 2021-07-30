@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=PanQiWei&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanQiWei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=PanQiWei&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanQiWei&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

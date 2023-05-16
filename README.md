@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2 align="center"> Hi there 👋, it's me, PanQiWei!</h2>
 
-<!--
-**PanQiWei/PanQiWei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI engineer enthusiastic about NLP, Multi-Modal and Chatbot.
 
-Here are some ideas to get you started:
+#### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![PanQiWei's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanQiWei&count_private=true&show_icons=true&theme=transparent)](https://github.com/PanQiWei/github-readme-stats)
+<!---[![PanQiWei's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PanQiWei)](https://github.com/PanQiWei/github-readme-stats)--->
+
+#### Top Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PanQiWei&repo=AutoGPTQ)](https://github.com/PanQiWei/github-readme-stats)
